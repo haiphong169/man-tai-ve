@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// file nay khong lien quan den man tai ve
+
 class Question {
   final String question;
   final answers;

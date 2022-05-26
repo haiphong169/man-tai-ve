@@ -1,5 +1,7 @@
 import 'package:test_screen_test/models/lesson.dart';
 
+// 1 chuong cua khoa hoc
+
 class CourseChapter {
   const CourseChapter(
       {required this.lessonNumber,

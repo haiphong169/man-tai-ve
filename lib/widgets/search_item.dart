@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// ket qua khi tim kiem
+
 class SearchItem extends StatefulWidget {
   SearchItem(
       {Key? key,

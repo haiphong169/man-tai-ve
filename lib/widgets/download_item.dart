@@ -7,6 +7,8 @@ import 'package:test_screen_test/models/course_chapter.dart';
 import 'package:test_screen_test/screens/course_download_screen.dart';
 import 'package:test_screen_test/course_dummy_data.dart';
 
+// cai nay la cai list tile o man tai ve ben ngoai
+
 class DownloadItem extends StatefulWidget {
   DownloadItem(
       {Key? key,
